@@ -1,0 +1,51 @@
+{
+  "collectionNames": [
+    {
+      "id": "7b54193b-40af-4341-89b5-85d1516a930f",
+      "name": "random"
+    },
+    {
+      "id": "188af887-a8d9-44c1-9b9d-324289661e8e",
+      "name": "news update"
+    }
+  ],
+  "eachCollection": [
+    {
+      "id": "b4c385f9-d80e-41ef-a0be-86154a6f8c2e",
+      "mediaName": "mind fresh",
+      "link": "https://media.istockphoto.com/videos/attractive-woman-blogger-speaks-about-professional-voice-over-and-video-id1253606799",
+      "mediaType": "mp4",
+      "collectionId": "7b54193b-40af-4341-89b5-85d1516a930f"
+    },
+    {
+      "id": "72cfad09-1afb-497f-9c84-beda62ba682b",
+      "mediaName": "today news",
+      "link": "https://www.youtube.com/watch?v=-v6Xfn0b-u0",
+      "mediaType": "mp4",
+      "collectionId": "188af887-a8d9-44c1-9b9d-324289661e8e"
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "1",
+      "mediaName": "today news",
+      "link": "https://www.youtube.com/watch?v=-v6Xfn0b-u0",
+      "mediaType": "mp4",
+      "collectionId": "188af887-a8d9-44c1-9b9d-324289661e8e"
+    },
+    {
+      "id": "2",
+      "mediaName": "mind fresh",
+      "link": "https://media.istockphoto.com/videos/attractive-woman-blogger-speaks-about-professional-voice-over-and-video-id1253606799",
+      "mediaType": "mp4",
+      "collectionId": "7b54193b-40af-4341-89b5-85d1516a930f"
+    },
+    {
+      "id": "d296610b-2bfa-46b8-82f7-9f76e77bcf75",
+      "mediaName": "today news",
+      "link": "https://www.youtube.com/watch?v=-v6Xfn0b-u0",
+      "mediaType": "mp4",
+      "collectionId": "188af887-a8d9-44c1-9b9d-324289661e8e"
+    }
+  ]
+}
